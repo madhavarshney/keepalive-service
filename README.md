@@ -45,4 +45,4 @@ python3 -m keepalive
 
 ## License
 
-The [MIT License](LICENSE.md).
+The [MIT License](LICENSE).
