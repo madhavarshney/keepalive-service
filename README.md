@@ -14,7 +14,7 @@ cd keepalive-service
 Install Python 3 and pip, and then install the required packages:
 
 ```sh
-pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Usage
